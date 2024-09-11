@@ -74,7 +74,8 @@
     "Optopia",
     "Kroma",
     "Mint",
-    "OFN"
+    "OFN",
+    "Sei"
   ],
   "scripts": {
     "codegen": "yarn workspaces run codegen",
