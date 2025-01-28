@@ -1,0 +1,30 @@
+{
+  "network": "mainnet",
+  "factory_address": "0xB076b06F669e682609fb4a8C6646D2619717Be4b",
+  "frax_address": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
+  "fxs_address": "0x3432B6A60D23Ca0dFCa7761B7ab56459D9C964D0",
+  "fxs_start_price": "8380000000000000000",
+  "frax_fxs_pair_address": "0x8206412c107eF1aDb70B9277974f5163760E128E",
+  "frax_fxs_pair": "0x8206412c107eF1aDb70B9277974f5163760E128E",
+  "native_address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+  "weth_address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+  "native_start_price": "14776073",
+  "fraxswap_frax_weth_pair_address": "0x8300f0528e00Ad33b218bb05D396F61A9FDd68Cd",
+  "fraxswap_frax_weth_pair": "0x8300f0528e00Ad33b218bb05D396F61A9FDd68Cd",
+  "fraxswap_frax_weth_pair_deploy_block": "14776073",
+  "minimum_usd_threshold_new_pairs": "3000",
+  "minimum_liquidity_threshold_eth": "3",
+  "factory": {
+    "address": "0xB076b06F669e682609fb4a8C6646D2619717Be4b",
+    "startBlock": "14775229"
+  },
+  "whitelist": [
+    "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "0x853d955aCEf822Db058eb8505911ED77F175b99e",
+    "0x3432B6A60D23Ca0dFCa7761B7ab56459D9C964D0",
+    "0x5Ca135cB8527d76e932f34B5145575F9d8cbE08E",
+    "0xc2544A32872A91F4A553b404C6950e89De901fdb",
+    "0x11EBe21e9d7BF541A18e1E3aC94939018Ce88F0b",
+    "0x579CEa1889991f68aCc35Ff5c3dd0621fF29b0C9"
+  ]
+}

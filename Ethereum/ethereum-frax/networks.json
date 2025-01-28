@@ -1,0 +1,10 @@
+{
+  "mainnet": {
+    "FraxswapFactory": {
+      "address": "0xB076b06F669e682609fb4a8C6646D2619717Be4b"
+    },
+    "FraxswapPair": {
+      "address": "0x8206412c107eF1aDb70B9277974f5163760E128E"
+    }
+  }
+}
